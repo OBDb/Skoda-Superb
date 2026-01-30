@@ -1,0 +1,45 @@
+references:
+  - "https://en.wikipedia.org/wiki/%C5%A0koda_Superb"
+
+generations:
+  - name: "First Generation (Pre-Facelift)"
+    start_year: 2001
+    end_year: 2006
+    description: "First generation Škoda Superb based on the Volkswagen Group B5 (PL45+) platform. Produced from 2001 to 2008 with a pre-facelift period from 2001-2006. Featured longitudinal front-engine, front-wheel-drive layout. The base model included 1.9 litre TDI or 2.0 litre petrol engines."
+    platform: "Volkswagen Group B5 (PL45+)"
+
+  - name: "First Generation (Facelift)"
+    start_year: 2006
+    end_year: 2008
+    description: "Facelifted first generation Superb introduced in August 2006. Updated with Škoda's new radiator grille, headlights, side repeater indicators integrated into door mirrors, and C-shaped tail lights. Interior redesign included real wood trim in some models. Top of range 'Laurin & Klement' model introduced."
+    platform: "Volkswagen Group B5 (PL45+)"
+
+  - name: "Second Generation (Pre-Facelift)"
+    start_year: 2008
+    end_year: 2013
+    description: "All new second generation Superb unveiled at Geneva Motor Show March 2008. Based on stretched A5 Octavia platform (Volkswagen Group A6 PQ46). Features transverse engine layout and innovative 'TwinDoor' trunk lid. Estate version (Superb Combi) introduced in 2009."
+    platform: "Volkswagen Group A6 PQ46"
+
+  - name: "Second Generation (Facelift)"
+    start_year: 2013
+    end_year: 2015
+    description: "Facelifted second generation Superb unveiled in Shanghai April 2013, released June 2013. Updated exterior design with new Škoda design language. Headlights fitted with integrated LED daytime running lights. TwinDoor mechanism updated for easier operation."
+    platform: "Volkswagen Group A6 PQ46"
+
+  - name: "Third Generation (Pre-Facelift)"
+    start_year: 2015
+    end_year: 2019
+    description: "Third generation Superb based on Volkswagen Group MQB platform, unveiled February 2015 at Geneva Motor Show. Larger than second generation. Available as sedan and estate (Combi). Dealer deliveries began June 2015 for sedan, September for estate."
+    platform: "Volkswagen Group MQB"
+
+  - name: "Third Generation (Facelift)"
+    start_year: 2019
+    end_year: 2023
+    description: "Facelifted third generation Superb unveiled in Bratislava May 2019. Added matrix full-LED headlights, Predictive Cruise Control and Emergency Assist. First plug-in hybrid variant (Superb iV) introduced with 1.4 litre petrol engine and 13 kWh battery."
+    platform: "Volkswagen Group MQB"
+
+  - name: "Fourth Generation"
+    start_year: 2023
+    end_year: null
+    description: "Fourth generation Superb officially unveiled November 2, 2023. Based on stretched version of MQB Evo platform. Offered as estate (Combi) and liftback. Features new 'Modern Solid' design language with crystalline styling. First vehicles delivered in 2024."
+    platform: "Volkswagen Group MQB Evo"
